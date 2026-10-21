@@ -1,6 +1,9 @@
 About rio-toa
 =============
 
+> [!WARNING]
+> **rio-toa is no longer maintained upstream.** The last upstream release of [mapbox/rio-toa](https://github.com/mapbox/rio-toa) was 0.3.0 on 2016-09-08. The only commits since then are automated. This feedstock stays available for existing users, but no new versions are expected.
+
 Home: https://github.com/mapbox/rio-toa
 
 Package license: BSD-3-Clause
